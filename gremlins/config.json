@@ -1,0 +1,20 @@
+{
+  "levels": [
+    {
+      "layout": "level1.txt",
+      "wizard_cooldown": 0.3333,
+      "enemy_cooldown": 3.0,
+      "powerup_symbol": "P",
+      "special_cooldown": 2.0
+    },
+    {
+      "layout": "level2.txt",
+      "wizard_cooldown": 2.0,
+      "enemy_cooldown": 1.0,
+      "powerup_symbol": "P",
+      "special_cooldown": 4.0
+    }
+  ],
+  "lives": 3
+}
+
